@@ -14,5 +14,5 @@ HTML5: Used for the semantic structure of the registration form and page element
 CSS3: Linked via an external stylesheet (Style.css) to provide a professional dark-green themed layout and responsive positioning.
 
 Project Structure
-Emp.html: The core structure of the registration form.
+Index.html: The core structure of the registration form.
 Style.css: The external stylesheet governing the visual presentation.
